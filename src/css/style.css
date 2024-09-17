@@ -65,7 +65,7 @@ section {
 .card {
     display: flex;
     flex-flow: row wrap;
-    width: 55%;
+    width: 60%;
     background-color: #a4b3d3;
     padding: 60px 20px;
     border-radius: 10px;
@@ -97,7 +97,7 @@ section {
 }
 
 .user_details_profile h1 {
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 600;
 }
 
