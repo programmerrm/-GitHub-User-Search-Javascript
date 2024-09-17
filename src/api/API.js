@@ -1,0 +1,1 @@
+export const GITHUB_USER_SEARCH_API = import.meta.env.VITE_GITHUB_USER_SEARCH_API
