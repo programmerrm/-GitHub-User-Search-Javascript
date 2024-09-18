@@ -129,8 +129,14 @@ section {
     font-size: 16px;
     font-weight: 500;
 }
+.search_wrap input {
+    width: 100%;
+}
 
 @media only screen and (max-width: 400px) {
+    .search_wrap {
+        width: 80%;
+    }
     .card {
         padding: 20px 10px;
         width: 100%;
@@ -176,6 +182,9 @@ section {
 }
 
 @media only screen and (max-width: 767px) {
+    .search_wrap {
+        width: 80%;
+    }
     .card {
         padding: 20px 10px;
         width: 100%;
